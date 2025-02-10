@@ -1,0 +1,4 @@
+📂 frontend/     → Interface utilisateur (React)
+📂 backend/      → Serveur et API (Node.js)
+📂 docs/         → Documentation du projet
+📂 assets/       → Images, logos et fichiers statiques
